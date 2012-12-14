@@ -6,5 +6,4 @@ ____________
 
 1. Clone the repository and navigate to it.
 2. `bundle install`
-3. `foreman start` to run the server.
-4. `guard` to automatically run the tests on file changes.
+3. `foreman start` to run the server and auto-run tests on file changes.
