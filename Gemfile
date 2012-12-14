@@ -11,6 +11,9 @@ group :test, :development do
 end
 
 group :development do
+  gem 'better_errors'
+  gem 'binding_of_caller'
+  gem 'foreman'
   gem 'guard-puma'
   gem 'guard-rspec'
   gem 'guard-cucumber'
